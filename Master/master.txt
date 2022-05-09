@@ -1,1 +1,2 @@
-ihi all this is my first commit in masters
+ihi all this is my first commit in master
+this is my second commit in master
